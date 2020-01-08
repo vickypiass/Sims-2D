@@ -87,8 +87,10 @@ class Sim {
         this.nivelEnergia = this.nivelEnergia - 30;
         this.nivelVegija = this.nivelVegija + 40;
     }
-    /*interactuarConObjeto(objeto) {
+
+    interactuarConObjeto(objeto) {
         objeto.interactuar(this);
-    }*/
+    }
+
 }
 
